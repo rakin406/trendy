@@ -1,5 +1,5 @@
 # trendy
-Check if github repository is trending.
+Check if github repository is trending, works with all date ranges.
 
 ## Installation
 ```shell
