@@ -16,6 +16,8 @@ else:
     print("Please supply repository name.")
     sys.exit(1)
 
+print("Searching...")
+
 # All date ranges(today, this week and this month)
 URLS = [
     "https://github.com/trending?since=daily",
